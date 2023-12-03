@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg1 {
+    height: 100vh;
+    background-size: cover;
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+
+}
+
+.sun1 {
+    color: #f19116;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.box1 {
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.para1 {
+    color: grey;
+    text-align: center;
+    font-family: "Bree Serif";
+    font-size: 20px;
+}
+
+.btn1 {
+    color: white;
+    background-color: #f19116;
+    border-width: 0px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    font-size: 20px;
+}
+
+.bg2 {
+    background-color: #222222;
+    background-size: cover;
+    height: 800px;
+}
+
+.sun2 {
+    color: #f19116;
+    font-family: "Bree Serif";
+    margin: 10px;
+}
+
+.bhk {
+    font-weight: 600;
+    font-family: "Bree Serif";
+    font-size: 35px;
+}
+
+.box2 {
+    background-color: white;
+    height: 180px;
+    width: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.img2 {
+    height: 180px;
+    width: 100px;
+}
+
+.para2 {
+    color: grey;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: "Bree Serif";
+
+}
+
+.pad2 {
+    margin: 5px;
+}
+
+.img3 {
+    height: 40vh;
+    background-size: cover;
+}
+
+.img4 {
+    height: 40px;
+    width: 40px;
+}
+
+.ds {
+    color: white;
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.hr {
+    border: 5px;
+    /* Remove the default border */
+    height: 2px;
+    /* Set the height of the line */
+    background-color: white;
+    /* Set the background color to white */
+}
+
+.rs {
+    color: #f19116;
+    font-family: "Bree Serif";
+    padding: 20px;
+}
+
+.dis {
+    color: #f19116;
+    font-family: "Bree Serif";
+    margin: 10px;
+}
+
+.para3 {
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: "Bree Serif";
+    padding: 10px;
+}
+
+.conb {
+    color: white;
+    width: 100px;
+    background-color: #f19116;
+    border-width: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 20px;
+    margin: 25px;
+}
+
+.bhmm {
+    margin: 10px;
+}
